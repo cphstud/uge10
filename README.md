@@ -1,4 +1,4 @@
-# Opgaver til uge 10 
+# Opgaver til Uge 10 
 ### Rækkefølgen 
 
 1) Hest.docx
